@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# never commit saved sign-ins
+.claude-profiles/
+*.credentials.json
+setup.log
+.idea/
+.vscode/
